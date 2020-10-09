@@ -6,7 +6,7 @@
 - 📫 How to reach me: JoshuaRTrujillo15@gmail.com
 - ⚡ Fun fact: I would give anything to get a Neuralink chip! 😄
 
-## Coding Lanuages
+## Coding Languages
 
 - <img width="26px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/> HTML
 - <img width="26px" src="https://img.icons8.com/dusk/64/000000/css3.png"/> CSS
@@ -20,7 +20,7 @@
 
 - <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/usa.png"/> English (USA)
 - <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/spain-2.png"/> Spanish
-- <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/china.png"/> Mandarin
+- <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/china.png"/> Mandarin [Download in Progress...]
 
 ---
 
