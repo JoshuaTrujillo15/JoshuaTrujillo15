@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning EVERYTHING!
 - 👯 I’m looking to collaborate on anything from websites to chatbots!
 - 📫 How to reach me: JoshuaRTrujillo15@gmail.com
-- ⚡ Fun fact: I would give anything to get a Neuralink chip! 😄
+- ⚡ Fun fact: I would love to work at Neuralink one day! 😄
 
 ## Coding Languages
 
