@@ -1,20 +1,32 @@
 # Hi there, my name is Joshua Trujillo! 👋
 
-- 🔭 I’m currently working on becoming a freelance, full-stack web developer!
-- 🌱 I’m currently learning EVERYTHING!
-- 👯 I’m looking to collaborate on anything from websites to chatbots!
+- 🔭 I’m currently working on advancing my software development career!
+- 🌱 I’m currently learning C++, Computer Vision, and React Native!
+- 👯 I’m looking to collaborate on web and native applications!
 - 📫 How to reach me: JoshuaRTrujillo15@gmail.com
-- ⚡ Fun fact: I would love to work at Neuralink one day! 😄
 
-## Coding Languages
+## Coding Languages / Technologies
 
-- <img width="26px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/> HTML
-- <img width="26px" src="https://img.icons8.com/dusk/64/000000/css3.png"/> CSS
-- <img width="26px" width="26px" src="https://img.icons8.com/nolan/64/javascript.png"/> JavaScript
-- <img width="26px" src="https://img.icons8.com/dusk/64/000000/php.png"/> PHP
-- <img width="26px" src="https://img.icons8.com/nolan/64/python.png"/> Python
-- <img width="26px" src="https://img.icons8.com/dusk/64/000000/sql.png"/> SQLite
-- <img width="26px" src="https://img.icons8.com/nolan/64/linux--v2.png"/> Linux Shell Scripting
+- FRONT-END
+  - HTML
+  - CSS
+  - JavaScript
+  - XML
+  - SVG
+  - React
+  - React Native
+- BACK-END
+  - MySQL / SQLite / MariaDB
+  - PHP
+  - Python
+  - AJAX
+  - Firebase
+- MISC
+  - Excel / Sheets
+  - Word / Docs
+  - Linux Terminal
+  - Windows CMD
+  
 
 ## Human Languages
 
