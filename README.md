@@ -1,7 +1,7 @@
 # Hi there, my name is Joshua Trujillo! 👋
 
-- 🔭 I’m currently working on advancing my software development career!
-- 🌱 I’m currently learning C++, Computer Vision, and React Native!
+- 🔭 I’m currently working on a native android and ios coffee shop app!
+- 🌱 I’m currently learning Swift, Kotlin, and React Native!
 - 👯 I’m looking to collaborate on web and native applications!
 - 📫 How to reach me: JoshuaRTrujillo15@gmail.com
 
@@ -14,17 +14,21 @@
   - XML
   - SVG
   - React
-  - React Native
 - BACK-END
   - MySQL / SQLite / MariaDB
+  - Node
   - PHP
   - Python
   - AJAX
   - Firebase
+- NATIVE
+  - React Native
+  - Swift
+  - Kotlin
 - MISC
   - Excel / Sheets
   - Word / Docs
-  - Linux Terminal
+  - Linux (and MacOS) Terminal
   - Windows CMD
   
 
