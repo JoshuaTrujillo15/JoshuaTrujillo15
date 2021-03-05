@@ -13,10 +13,12 @@
   - JavaScript
   - XML
   - SVG
-  - React
+  - React.js
 - BACK-END
   - MySQL / SQLite / MariaDB
-  - Node
+  - MongoDB
+  - Node.js
+  - Express
   - PHP
   - Python
   - AJAX
@@ -30,13 +32,14 @@
   - Word / Docs
   - Linux (and MacOS) Terminal
   - Windows CMD
-  
+  - GitHub / GitLab
+  - Jira
+  - 
 
 ## Human Languages
 
 - <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/usa.png"/> English (USA)
 - <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/spain-2.png"/> Spanish
-- <img width="26px" src="https://img.icons8.com/cute-clipart/64/000000/china.png"/> Mandarin [Download in Progress...]
 
 ---
 
