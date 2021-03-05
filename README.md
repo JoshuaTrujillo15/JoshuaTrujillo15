@@ -34,7 +34,6 @@
   - Windows CMD
   - GitHub / GitLab
   - Jira
-  - 
 
 ## Human Languages
 
